@@ -90,7 +90,6 @@ async function checkAndClaimDailyRewardApi(
     accept: "application/json, text/plain, */*",
     origin: "https://testnet.humanity.org",
     referer: "https://testnet.humanity.org/dashboard",
-    "user-agent": "NodeJS Script by ThoToolAirdrop",
   };
 
   try {
